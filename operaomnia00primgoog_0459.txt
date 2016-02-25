@@ -1,0 +1,45 @@
+R 1 .
+DU CALCULINTEGRAL 395
+
+monteront ὲ un meme degrk. Ainfi en faisant le reste com·
+me cy-deffus, on trouvera les valeurs des grandeurs constan·
+tes ffldbtermmkes, qu'on y aura supposkes: De sorte que rdx: q
+se trouvera resolu& en sdz: t ÷ adx: ( x Η), οὺ les x de
+t seront dkja d'un degrk plus bas que dans q. On resoudra
+de meme sdx: t en vdx: w ÷bdx: (κὴ-8), & ainfi de
+suite, jusqu'zi ce·qu'enfin on soit arrivk alde fimples racines
+de x dans les dknominateurs des frastions supposseu ce qui ἐ·
+tant, la restante rdx: q de la ρτοροῖἑε, se -trouvera resolues
+en ces fimples·ci: adx: (x 4f) ÷bdxs (x 4g) ÷cdm
+(ac-bb) ÷ δα. 11 ne reste donc plus qu’sst faire voit com..
+ment les intkgrales des ces dernikrts fiafflons (qu’on voit ἀέ-
+pendre de la description de la logarithmique‚ ou dela qua-
+drature de l'hyperbole‚ soit rkelle, soit imaginaire ) se peu·
+vent exprimet en grandeurs exponentielles ou parcourantes:
+le voici.
+
+. On ssit que dx:(x÷f)‚ dx: (ae-bg), dm (x†b)‚·
+&c. sont les differentielles de Logarithmes de x -Ι- f ; x ÷g,
+x÷ h, διο. Et qu'ainfi s(dx: (x ·l·f))› s(dx·· (x†g))‚
+s( dx: (x ÷ h ))‚ διε. seront ces Logarithmes eux-memes:
+Desortequel'on aura s(dx: (x ÷ f )) =l(x-}- f). &ainfi
+des autres, οὺ l fignifiera logambme, comme d fignifie diffe-
+rentielle. Donc s(adx .· (x÷f)) ÷s(bdx .· (x†g)) .
+—l-s(cdx: (x†b)) ÷ &c.=al(x÷f)÷bl (x÷g)
+÷cl (x4b)÷ διε. [par la nature des Logarithme51=Log
+
+((x†f)·'¹(x †g)·b(x†b).⁶ dcc.) Ce qu’ilfhlloitftirez
+
+coRoLmRE.
+
+On voit dela comment les &quations differentielles ratione!-
+-les, ou qui, parles manieres de DIOPHANTE, ou par
+d'autres' ‚ peuvent devenir rationelles, & dont les variables
+avec leurs differences se trouvent [bparkes de toutes autres,
+tant variables, que differentielles‚ peuvent tofijours se redui-⁴
+re ὲ des &quatiens algkbrai'ques Qun& gi'gxponentielleae cedqqi
+
+2 ,ΟΠ
+
+ 
+

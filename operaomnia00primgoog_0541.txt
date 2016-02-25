@@ -1,0 +1,46 @@
+nnc roncnc cnnannnn· 471
+
+De plus, comment sans cela auriez-vous pri tirer l’integralc · ·
+
+ie celle-ci, ἃ ensuite l'integrale de l’integraiei puisquelesin·
+determinem x, y, dx, dy, ddx, y sont st milies ὅ( st com·
+pliquees, que de les vouloir separer, seroit entreprendte un
+travail ὲ se desesperert δι qu'il vous autoic ete impossible de les
+integret routes milies, comme vous avez fait, fi vous n‘euffiez
+pas soupconnt'z que les sections Coniques‚ que vous aviez en
+vire, satisfaisoient i votre equation differentio·diffcrentielle;
+que' vous avez pour cela s1 heureusement accommodet au but
+οὺ vous tendiez, que vous l’avez enfin reduite i une equation
+algebrique. je souhaiterois fort que vous effayaffrez v6tre me·
+thode sur l'hypothese generale, c’est·i·dire pour trouver la cour·
+be trajecioire dans quelque hypothese que ce soit des forces
+centripetes, du moins en supposant la quadrature des espaces
+curvilignes z vous veniez que le melange des indeterminees
+vous engageroit alors dans un embarras, d’oit je ne crois pas ·
+que vous sortiffiez, sans prendre un autre chemin que celui-li.
+
+De plus, il ne suit pas encore devotre Solution particuli&-
+re‚ qu'elle ne conviennent qu'aux seules Sections. Coniquest
+apris la premiere integration de votre equation differentio-
+differentielle‚ vous avez oublie d’y ajotiter de part ou d'autre
+une quantite constanter ce qui pourroit laiffer quelqu'un en dou‘
+te, fi outre les Seffions Coniques, il n'y auroit point encore ¹
+quelqu’autre genre de Courbes qui satisfit ὲ vorce question.
+Pour lever ce doute, vous deviez faire voit que l’addition on
+le retranchement d’une quantitt': constante dans un des ment·
+bres de l'integrale d'une e‘quation differentielle quelconque‚ ne
+change rien ila nature de la Courbe exprimet par ces deux
+equations. Voici comment je supplic i cette omiffion.
+
+Dans vtitre equation differentio-differentielle -- addx =·
+
+(ydx -- xdy) >< (xydx ..- xxdy):' (xx-im} je ne·
+mets pas seulement [comme vous] -aedx pout l’integralede
+··,· addx, mais -- cdx ς une quantite‘ constante. c'est-i·
+dire, - adx ζ e(ydx—‚xdy); pour le reste je le fais
+comme vous3 de sorte qu’en integrant vorce precedente eqoa-
+
+ι tion·
+
+ 
+
